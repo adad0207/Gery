@@ -2,8 +2,8 @@
 layout: post
 title: "Spring 게시판 만들기"
 ---
-## JavaConfiguration 사용
+# JavaConfiguration 사용
 - web.xml의 파일삭제 및 스프링 관련 파일 삭제
 - pom.xml의 수정 및 스프링 버전 변경
 - Java 설정 관련 패키지 생성
----
+
