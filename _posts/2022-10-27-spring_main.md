@@ -12,7 +12,7 @@ title: "Spring 게시판 만들기."
 - ORA-12505 오류
 ![image](https://user-images.githubusercontent.com/77110648/202908051-277b0d64-4d3b-44e8-8fb5-522eb7fbcc50.png)
 - Oracle listener 문제였다.
-- Oracle파일 속 listener.ora 파일에 빨간줄 부분이 EXTPROC1521 이여야하는데 EXTPROC1이였다. (수정)
-![image](https://user-images.githubusercontent.com/77110648/202908173-dd28369b-5099-43bb-a2c0-c6094f2feb82.png)
-- 정상 접속!
-![image](https://user-images.githubusercontent.com/77110648/202908246-0acf408e-2f6e-42c1-a22c-604ef36fe8bb.png)
+- Ahn lab이 켜져있어서 방화벽 문제로 실행이 안됐던 것이였다.
+- 그동안 안보였던 xe 리스너
+![image](https://user-images.githubusercontent.com/77110648/202911219-7675bc4d-a50f-4ab8-8d47-150a44357d67.png)
+
